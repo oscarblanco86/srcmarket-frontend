@@ -2,8 +2,8 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
-  "name": "my-expo-app",
-  "short_name": "my-expo-app",
+  "name": "Verzo",
+  "short_name": "Verzo",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait"
 }
