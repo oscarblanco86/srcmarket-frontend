@@ -1,6 +1,6 @@
 // app/index.tsx
-import IndexScreen from './screens/index';
+import Home from './screens/Home';
 
 export default function Home() {
-  return <IndexScreen />;
+  return <Home />;
 }
